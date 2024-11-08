@@ -1,0 +1,5 @@
+[
+    { "service": "Ambulance", "number": "102" },
+    { "service": "Poison Control", "number": "1800-222-1222" },
+    { "service": "Disaster Helpline", "number": "108" }
+  ]

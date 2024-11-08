@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Diabetes",
+    "description": "A chronic disease that affects how your body turns food into energy.",
+    "symptoms": ["increased thirst", "headache", "frequent urination", "fatigue"],
+    "prevention": "Maintain a healthy diet, exercise regularly, avoid excessive sugar intake.",
+    "treatment": "Consult a healthcare provider, follow medication if prescribed, monitor blood sugar levels."
+  },
+  {
+    "name": "Hypertension",
+    "description": "A condition in which the force of the blood against the artery walls is too high.",
+    "symptoms": ["headache", "shortness of breath", "nosebleeds", "fatigue"],
+    "prevention": "Reduce salt intake, exercise regularly, limit alcohol consumption, manage stress.",
+    "treatment": "Use prescribed medication, maintain a healthy lifestyle, monitor blood pressure regularly."
+  },
+  {
+    "name": "Asthma",
+    "description": "A respiratory condition that causes difficulty in breathing due to airway inflammation.",
+    "symptoms": ["wheezing", "coughing", "shortness of breath", "chest tightness"],
+    "prevention": "Avoid allergens, use air purifiers, stay away from smoke.",
+    "treatment": "Use inhalers, follow prescribed medications, avoid triggers."
+  },
+  {
+    "name": "Malaria",
+    "description": "A mosquito-borne infectious disease causing fever, chills, and flu-like symptoms.",
+    "symptoms": ["fever", "chills", "headache", "nausea", "vomiting"],
+    "prevention": "Use mosquito nets, wear protective clothing, take anti-malarial medications.",
+    "treatment": "Consult a healthcare provider for medication, use antimalarial drugs."
+  },
+  {
+    "name": "Tuberculosis",
+    "description": "A bacterial infection that mainly affects the lungs but can affect other parts of the body.",
+    "symptoms": ["coughing up blood", "fatigue", "weight loss", "fever", "night sweats"],
+    "prevention": "Complete TB vaccination, avoid close contact with infected people.",
+    "treatment": "Follow a prescribed course of antibiotics for several months."
+  },
+  {
+    "name": "Dengue Fever",
+    "description": "A viral illness spread by mosquitoes that causes high fever and flu-like symptoms.",
+    "symptoms": ["high fever", "headache", "pain behind the eyes", "rash", "joint pain"],
+    "prevention": "Use mosquito repellents, wear long-sleeved clothing, eliminate mosquito breeding sites.",
+    "treatment": "Supportive treatment such as fluids and pain relievers, seek medical attention."
+  },
+  {
+    "name": "Cholera",
+    "description": "A bacterial infection that causes severe diarrhea and dehydration.",
+    "symptoms": ["severe diarrhea", "vomiting", "dehydration", "muscle cramps"],
+    "prevention": "Drink clean water, practice good hygiene, use proper sanitation.",
+    "treatment": "Rehydration therapy, antibiotics in severe cases."
+  },
+  {
+    "name": "Chickenpox",
+    "description": "A highly contagious viral infection that causes an itchy skin rash with red spots and blisters.",
+    "symptoms": ["itchy rash", "fever", "headache", "tiredness"],
+    "prevention": "Vaccination, avoid close contact with infected individuals.",
+    "treatment": "Antihistamines for itching, pain relievers, consult a doctor."
+  },
+  {
+    "name": "Hepatitis B",
+    "description": "A viral infection that attacks the liver and can cause both acute and chronic diseases.",
+    "symptoms": ["jaundice", "fatigue", "abdominal pain", "dark urine", "loss of appetite"],
+    "prevention": "Get vaccinated, avoid sharing needles, safe sex practices.",
+    "treatment": "Antiviral medications, liver transplant in severe cases."
+  },
+  {
+    "name": "Typhoid Fever",
+    "description": "A bacterial infection caused by Salmonella typhi, causing high fever and gastrointestinal symptoms.",
+    "symptoms": ["high fever", "weakness", "abdominal pain", "loss of appetite", "diarrhea or constipation"],
+    "prevention": "Drink clean water, avoid contaminated food, vaccination.",
+    "treatment": "Antibiotics, rehydration."
+  },
+  {
+    "name": "HIV/AIDS",
+    "description": "A virus that attacks the immune system, weakening the body’s ability to fight infections.",
+    "symptoms": ["fever", "sore throat", "swollen lymph nodes", "rash", "fatigue"],
+    "prevention": "Use protection during sexual activity, avoid sharing needles, get tested regularly.",
+    "treatment": "Antiretroviral therapy (ART) to manage HIV, regular monitoring of immune system."
+  },
+  {
+    "name": "Pneumonia",
+    "description": "An infection that inflames the air sacs in one or both lungs, which may fill with fluid.",
+    "symptoms": ["cough with phlegm", "fever", "shortness of breath", "chest pain", "fatigue"],
+    "prevention": "Vaccination, avoid smoking, practice good hygiene.",
+    "treatment": "Antibiotics, pain relievers, rest, fluids."
+  },
+  {
+    "name": "Leprosy",
+    "description": "A chronic infectious disease that primarily affects the skin, peripheral nerves, upper respiratory tract, and eyes.",
+    "symptoms": ["skin lesions", "numbness", "muscle weakness", "ulcers"],
+    "prevention": "Early detection, avoid prolonged contact with infected persons.",
+    "treatment": "Multi-drug therapy (MDT)."
+  },
+  {
+    "name": "Mental Health Disorders",
+    "description": "A range of conditions that affect a person’s mood, thinking, and behavior.",
+    "symptoms": ["anxiety", "depression", "mood swings", "insomnia", "loss of interest"],
+    "prevention": "Stress management, therapy, healthy lifestyle.",
+    "treatment": "Therapy, medication, counseling."
+  },
+  {
+    "name": "Cervical Cancer",
+    "description": "Cancer that occurs in the cells of the cervix, often caused by the human papillomavirus (HPV).",
+    "symptoms": ["abnormal vaginal bleeding", "pelvic pain", "pain during intercourse"],
+    "prevention": "HPV vaccination, regular pap smears.",
+    "treatment": "Surgery, chemotherapy, radiation therapy."
+  },
+  {
+    "name": "Osteoarthritis",
+    "description": "A type of arthritis that occurs when the cartilage that cushions the joints breaks down.",
+    "symptoms": ["joint pain", "stiffness", "swelling", "reduced flexibility"],
+    "prevention": "Maintain healthy weight, regular exercise, avoid injury.",
+    "treatment": "Pain relief medication, physical therapy, joint replacement surgery."
+  },
+  {
+    "name": "Stroke",
+    "description": "A medical emergency where poor blood flow to the brain causes brain tissue damage.",
+    "symptoms": ["sudden numbness or weakness", "difficulty speaking", "blurred vision", "severe headache"],
+    "prevention": "Control blood pressure, healthy diet, exercise.",
+    "treatment": "Emergency medical care, rehabilitation, and surgery in some cases."
+  },
+  {
+    "name": "Kidney Disease",
+    "description": "A condition that impairs the function of the kidneys and can lead to kidney failure.",
+    "symptoms": ["swelling", "fatigue", "shortness of breath", "blood in urine"],
+    "prevention": "Avoid smoking, manage diabetes, control high blood pressure.",
+    "treatment": "Dialysis, kidney transplant, manage underlying conditions."
+  },
+  {
+    "name": "Gallstones",
+    "description": "Small, hard deposits that form in the gallbladder, which can block bile ducts.",
+    "symptoms": ["abdominal pain", "nausea", "vomiting", "jaundice"],
+    "prevention": "Healthy diet, avoid excessive alcohol consumption.",
+    "treatment": "Surgery to remove the gallbladder, medications."
+  },
+  {
+    "name": "Anemia",
+    "description": "A condition where you don't have enough healthy red blood cells to carry adequate oxygen to your body's tissues.",
+    "symptoms": ["fatigue", "paleness", "shortness of breath", "dizziness"],
+    "prevention": "Eat iron-rich foods, avoid excessive blood loss.",
+    "treatment": "Iron supplements, vitamin B12 injections, blood transfusions."
+  },
+  {
+    "name": "Psoriasis",
+    "description": "A skin condition where skin cells build up and form scales and itchy, dry patches.",
+    "symptoms": ["red patches of skin", "itchy skin", "scaly skin", "cracked skin"],
+    "prevention": "Avoid triggers like stress and skin injury.",
+    "treatment": "Topical treatments, light therapy, medications."
+  },
+  {
+    "name": "Epilepsy",
+    "description": "A neurological disorder that causes seizures.",
+    "symptoms": ["seizures", "loss of consciousness", "muscle spasms"],
+    "prevention": "Proper medication, avoid triggers.",
+    "treatment": "Anti-seizure medications, lifestyle adjustments."
+  },
+  {
+    "name": "Acid Reflux",
+    "description": "A condition where stomach acid flows back into the esophagus causing heartburn.",
+    "symptoms": ["heartburn", "regurgitation", "chest pain", "difficulty swallowing"],
+    "prevention": "Avoid spicy food, eat smaller meals, avoid lying down after meals.",
+    "treatment": "Antacids, proton pump inhibitors."
+  },
+  {
+    "name": "Acne",
+    "description": "A skin condition that causes pimples, blackheads, and cysts, typically on the face, back, and shoulders.",
+    "symptoms": ["pimples", "blackheads", "whiteheads", "scarring"],
+    "prevention": "Clean skin regularly, avoid excessive oil production.",
+    "treatment": "Topical treatments, antibiotics, oral medication."
+  }
+]
